@@ -1,15 +1,20 @@
+/1stbranch
 wgy01
 maven-restaurant
 phase 13
-<<<<<<< HEAD
++ checkout 1stbranch
+
+/master
+wgy01
+maven-restaurant
+phase 13
 +Master 01
 +tag v0.1
-<<<<<<< HEAD
-=======
-+ checkout 1stbranch
->>>>>>> 1stbranch
-=======
-+2ndbranch
->>>>>>> 2ndbranch
 
-+meger all
+/+2ndbranch
+wgy01
+maven-restaurant
+phase 13
++Master 01
++tag v0.1
++2ndbranch
